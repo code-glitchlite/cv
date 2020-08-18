@@ -1,0 +1,7 @@
+Unicode-table.com	to add symbols to the title
+<i> tag only styles the word written in between them
+<em> using this tag structures our text and emphasis or says that this text is stressed
+<b> tag only the text inbetween them
+<Strong> tag shows that the text inbetween them is important
+
+ 
